@@ -4,15 +4,11 @@ This repository contains the source code for my personal portfolio website. As a
 See Preview on : https://naimishmakani.github.io/Profile/
 
 
-My Portfolio Website 🎨🚀 
-
+**My Portfolio Website** 🎨🚀 
 A modern and responsive personal portfolio website to showcase my skills, projects, and experience.
 
-🔧 Technologies 
-
+**Technologies** 🔧
 Used Frontend: HTML, CSS
-
 Styling: Bootstrap/Tailwind CSS 
-
 Deployment: GitHub Pages
 
